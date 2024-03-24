@@ -5,6 +5,7 @@
 #define MAX_VEHICLE_NAME 50
 #define MAX_VEHICLE_COUNT 100
 
+// 1
 typedef struct {
     int id;
     char license_plate[MAX_VEHICLE_NAME];
